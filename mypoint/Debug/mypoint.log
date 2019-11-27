@@ -1,0 +1,3 @@
+﻿  point.cpp
+C:\Users\USER\source\repos\mypoint\point.cpp(36,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  mypoint.vcxproj -> C:\Users\USER\source\repos\mypoint\Debug\mypoint.exe
